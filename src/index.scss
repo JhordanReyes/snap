@@ -32,7 +32,7 @@ body{
     .img-primary{
         width: 100%;
         height: 300px;
-        background-image: url(/public/img/img-mobile.png);
+        background-image: url(../img/img-mobile.png);
         background-position: center;
         background-size: cover;
         background-repeat: no-repeat;
@@ -251,7 +251,7 @@ body{
         flex-direction: row-reverse;
         align-items: center;
         .img-primary{
-            background-image: url(/public/img/img-desktop.png);
+            background-image: url(../img/img-desktop.png);
             width: 375px;
             height: 500px;
         }
